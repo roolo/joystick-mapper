@@ -1,0 +1,41 @@
+{
+	"name": "Superbrothers",
+	"tag": "No tag",
+	"joysticks": [
+		{
+			"tag": "Write here a tag to identify anything you want",
+			"binds": {
+				"axi 0 -": [
+					"key 80"
+				],
+				"axi 0 +": [
+					"key 79"
+				],
+				"axi 1 -": [
+					"key 82"
+				],
+				"axi 1 +": [
+					"key 81"
+				],
+				"axi 4 -": [
+					"mou 1 - 6"
+				],
+				"axi 4 +": [
+					"mou 1 + 6"
+				],
+				"axi 3 -": [
+					"mou 0 - 6"
+				],
+				"axi 3 +": [
+					"mou 0 + 6"
+				],
+				"btn 4": [
+					"mbt 0"
+				],
+				"btn 5": [
+					"mbt 1"
+				]
+			}
+		}
+	]
+}

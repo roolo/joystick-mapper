@@ -1,0 +1,23 @@
+{
+	"name": "RobotRiot",
+	"tag": "No tag",
+	"joysticks": [
+		{
+			"tag": "Write here a tag to identify anything you want",
+			"binds": {
+				"axi 1 -": [
+					"key 26"
+				],
+				"axi 1 +": [
+					"key 22"
+				],
+				"axi 0 -": [
+					"key 4"
+				],
+				"axi 0 +": [
+					"key 7"
+				]
+			}
+		}
+	]
+}

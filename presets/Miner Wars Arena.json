@@ -1,0 +1,53 @@
+{
+	"name": "Miner Wars Arena",
+	"tag": "",
+	"joysticks": [
+		{
+			"tag": "Write here a tag to identify anything you want",
+			"binds": {
+				"axi 1 -": [
+					"key 82"
+				],
+				"axi 1 +": [
+					"key 81"
+				],
+				"axi 0 -": [
+					"key 80"
+				],
+				"axi 0 +": [
+					"key 79"
+				],
+				"axi 4 -": [
+					"mou 1 - 14"
+				],
+				"axi 4 +": [
+					"mou 1 + 14"
+				],
+				"axi 3 +": [
+					"mou 0 + 14"
+				],
+				"axi 3 -": [
+					"mou 0 - 15"
+				],
+				"btn 9": [
+					"key 41"
+				],
+				"btn 5": [
+					"key 43"
+				],
+				"btn 4": [
+					"key 224"
+				],
+				"btn 6": [
+					"key 40"
+				],
+				"btn 13": [
+					"key 51"
+				],
+				"btn 14": [
+					"key 52"
+				]
+			}
+		}
+	]
+}

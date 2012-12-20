@@ -1,0 +1,24 @@
+{
+	"name": "Super Meat Boy",
+	"tag": "No tag",
+	"joysticks": [
+		{
+			"tag": "Write here a tag to identify anything you want",
+			"binds": {
+				"btn 0": [
+					"key 44",
+					"key 4"
+				],
+				"btn 4": [
+					"key 225"
+				],
+				"axi 0 -": [
+					"key 80"
+				],
+				"axi 0 +": [
+					"key 79"
+				]
+			}
+		}
+	]
+}

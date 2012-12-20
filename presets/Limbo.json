@@ -1,0 +1,29 @@
+{
+	"name": "Limbo",
+	"tag": "No tag",
+	"joysticks": [
+		{
+			"tag": "Write here a tag to identify anything you want",
+			"binds": {
+				"axi 0 +": [
+					"key 79"
+				],
+				"axi 0 -": [
+					"key 80"
+				],
+				"axi 1 -": [
+					"key 82"
+				],
+				"axi 1 +": [
+					"key 81"
+				],
+				"btn 1": [
+					"key 226"
+				],
+				"btn 9": [
+					"key 41"
+				]
+			}
+		}
+	]
+}

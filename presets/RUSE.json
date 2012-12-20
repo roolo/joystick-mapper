@@ -1,0 +1,71 @@
+{
+	"name": "R.U.S.E.",
+	"tag": "Xbox 360 Gamepad,",
+	"joysticks": [
+		{
+			"tag": "Sticks moves cursor, RB/LB Clicks, L/R Stick Buttons are Copy/Paste, and so on...",
+			"binds": {
+				"btn 2": [
+					"key 6"
+				],
+				"btn 8": [
+					"key 40"
+				],
+				"btn 9": [
+					"key 41"
+				],
+				"btn 3": [
+					"key 29"
+				],
+				"btn 0": [
+					"key 44"
+				],
+				"btn 1": [
+					"key 43"
+				],
+				"btn 10": [
+					"key 44"
+				],
+				"btn 4": [
+					"mbt 0"
+				],
+				"btn 5": [
+					"mbt 1"
+				],
+				"axi 3 -": [
+					"mou 0 - 3"
+				],
+				"axi 3 +": [
+					"mou 0 + 4"
+				],
+				"axi 4 -": [
+					"mou 1 - 4"
+				],
+				"axi 4 +": [
+					"mou 1 + 4"
+				],
+				"axi 1 -": [
+					"key 82"
+				],
+				"axi 1 +": [
+					"key 81"
+				],
+				"axi 0 -": [
+					"key 80"
+				],
+				"axi 0 +": [
+					"key 79"
+				],
+				"btn 11": [
+					"whe 1 - 6"
+				],
+				"btn 12": [
+					"whe 1 + 6"
+				],
+				"axi 2 -": [
+					"mbt 2"
+				]
+			}
+		}
+	]
+}

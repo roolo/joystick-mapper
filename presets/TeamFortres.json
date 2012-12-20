@@ -1,0 +1,59 @@
+{
+	"name": "Team fortress",
+	"tag": "No tag",
+	"joysticks": [
+		{
+			"tag": "Write here a tag to identify anything you want",
+			"binds": {
+				"axi 1 -": [
+					"key 26"
+				],
+				"axi 1 +": [
+					"key 22"
+				],
+				"axi 0 -": [
+					"key 4"
+				],
+				"axi 0 +": [
+					"key 7"
+				],
+				"axi 4 -": [
+					"mou 1 - 11"
+				],
+				"axi 4 +": [
+					"mou 1 + 11"
+				],
+				"axi 3 +": [
+					"mou 0 + 15"
+				],
+				"axi 3 -": [
+					"mou 0 - 14"
+				],
+				"btn 9": [
+					"key 41"
+				],
+				"btn 0": [
+					"key 44"
+				],
+				"btn 1": [
+					"key 224"
+				],
+				"btn 13": [
+					"whs 1 +"
+				],
+				"btn 14": [
+					"whs 1 -"
+				],
+				"btn 4": [
+					"mbt 0"
+				],
+				"btn 5": [
+					"mbt 1"
+				],
+				"btn 2": [
+					"key 21"
+				]
+			}
+		}
+	]
+}
