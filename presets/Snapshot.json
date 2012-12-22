@@ -1,0 +1,20 @@
+{
+	"name": "Snapshot",
+	"tag": "No tag",
+	"joysticks": [
+		{
+			"tag": "Write here a tag to identify anything you want",
+			"binds": {
+				"btn 4": [
+					"mbt 0"
+				],
+				"btn 5": [
+					"mbt 1"
+				],
+				"btn 9": [
+					"key 41"
+				]
+			}
+		}
+	]
+}
