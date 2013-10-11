@@ -7,6 +7,7 @@ namespace :rename do
     logger = Logger.new STDOUT
 
     Dir.entries('presets').each do |file|
+      puts 'Processing '+file
       file_path = 'presets/'+file
       unless File.directory?(file_path) || file_path =~ /json/
         preset_data = JSON.parse File.read(file_path), symbolize_names: true
