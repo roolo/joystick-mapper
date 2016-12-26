@@ -1,0 +1,67 @@
+{
+	"name": "Penumbra",
+	"tag": "No tag",
+	"joysticks": [
+		{
+			"tag": "Xbox 360 controller",
+			"binds": {
+				"axi 1 -": [
+					"key 26"
+				],
+				"axi 1 +": [
+					"key 22"
+				],
+				"axi 0 -": [
+					"key 4"
+				],
+				"axi 0 +": [
+					"key 7"
+				],
+				"axi 4 -": [
+					"mou 1 - 6"
+				],
+				"axi 4 +": [
+					"mou 1 + 6"
+				],
+				"axi 3 +": [
+					"mou 0 + 6"
+				],
+				"axi 3 -": [
+					"mou 0 - 6"
+				],
+				"btn 9": [
+					"key 41"
+				],
+				"btn 6": [
+					"key 225"
+				],
+				"btn 7": [
+					"key 224"
+				],
+				"btn 4": [
+					"key 20"
+				],
+				"btn 5": [
+					"key 8"
+				],
+				"axi 5 -": [
+					"mbt 0"
+				],
+				"axi 2 -": [
+					"mbt 1"
+				],
+				"btn 3": [
+					"key 21",
+					"key 43"
+				],
+				"btn 2": [
+					"key 27",
+					"key 9"
+				],
+				"btn 12": [
+					"mbt 2"
+				]
+			}
+		}
+	]
+}
